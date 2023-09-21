@@ -20,7 +20,7 @@
 
 
 
-.navbar {
+.navbar{
   display: flex;
   align-items: center;
   height: 100px;
@@ -38,7 +38,7 @@
   display: none;
 }
 
-.icons {
+.icons  {
   position: absolute;
   right: 20px;
   cursor: pointer;
