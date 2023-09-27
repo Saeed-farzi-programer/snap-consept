@@ -12,7 +12,7 @@
 - my job [my work is :design of sections ( main / toolbar /  Respansive with Media Query)]
 - . **this project start at shahrivar 1 and finished at shahrivar 15**
 
-- My emails for contact **saeed.farzii@gmail.com**
+- My emails for contact **saeedfarzii@gmail.com**
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
